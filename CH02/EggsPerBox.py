@@ -1,4 +1,9 @@
 """Calculate the number of boxes a farmer needs to store eggs"""
+"""
+Typically 6 eggs fit in one box. Write a script to calculate the number of boxes a farmer needs to store 28 eggs.
+Determine how many eggs are placed in the last uncompleted box and how many additional eggs are needed to fill the last box
+"""
+
 eggs_per_box = 6
 number_of_eggs = 29
 

@@ -1,5 +1,8 @@
 """Calculating Time from seconds"""
-
+"""
+Write a script that inputs a number of seconds from the user.
+Calculate the number of hours, minutes, and seconds and remaining seconds.
+"""
 seconds = int(input('Enter the time in seconds: '))
 
 minutes = int(seconds/60)

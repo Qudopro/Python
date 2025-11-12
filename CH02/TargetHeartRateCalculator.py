@@ -1,4 +1,8 @@
 """Target Heart Rate Calculator"""
+"""
+Write a script that propts for and inputs the user's age and calculates and display the user's maximum heart rate 
+and the range of the user's target heart rate. 
+"""
 beats_per_minute = 220
 age = int(input('Enter your age:\t'))
 
