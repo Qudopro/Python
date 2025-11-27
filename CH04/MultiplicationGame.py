@@ -1,3 +1,6 @@
+"""
+Multiplication game
+"""
 import random as rand
 
 number1 = rand.randint(1, 10)

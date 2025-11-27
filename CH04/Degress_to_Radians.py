@@ -1,3 +1,6 @@
+"""
+Implement a radiands function that returns the radian equivalent of a degree
+"""
 import math
 
 def radians(degrees):

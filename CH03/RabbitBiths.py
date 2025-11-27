@@ -1,4 +1,9 @@
 """Rabbit Births"""
+"""
+A farmer wants to keep track of the average number of rabbits born on his farm every month.
+Develop a sentinel-controlled-repetition script that prompts the suer to input the number of does living in the farm
+and the number of rabbits born in a especific month 
+"""
 total_does = 0
 total_baby = 0
 

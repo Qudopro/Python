@@ -1,4 +1,8 @@
 """Keep track of the number of infected patients"""
+"""
+Write a script in which the user can input the number of reported infections per day over one week.
+Calculate the total, average, smallest and largest of these values. 
+"""
 total = 0
 minimum = 0
 maximum = 0

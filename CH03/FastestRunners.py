@@ -1,4 +1,7 @@
 """Fastest Runner"""
+"""
+Use a loop to find the fastest and second fastest from 10 runners whose speeds are entered
+"""
 import random as rnd
 maximum = 0
 maximum2 = 0
