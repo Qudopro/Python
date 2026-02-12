@@ -1,5 +1,4 @@
 """Comparing integers using if statements and comparison operators."""
-
 print("Enter two integer and I will tell you the relationships they satisfy.")
 
 #read first integer
