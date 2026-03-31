@@ -1,7 +1,7 @@
 """Displaying a bar char"""
 numbers = [19,3,15,7,11]
 
-print('\nCreating a bar char from numbers')
+print('Creating a bar char from numbers')
 print(f'Index{"Value":>8}   Bar')
 
 for index, value in enumerate(numbers):

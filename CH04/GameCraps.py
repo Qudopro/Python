@@ -12,7 +12,7 @@ def display_dice(dice):
     dice1, dice2 = dice         # Unpack the tuple into variables
     print(f'Player rolled {dice1} + {dice2} = {sum(dice)}')
 
-dice_values = roll_dice()
+dice_values = roll_dice()               #First roll
 display_dice(dice_values)
 
 #Determine game status and point, based on first roll
