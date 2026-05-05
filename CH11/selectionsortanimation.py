@@ -1,7 +1,7 @@
 #selectionsortanimation.py
 """Animated selection sort visualization"""
 import matplotlib.pyplot as plt
-import matplotlib import animation
+from matplotlib import animation
 import numpy as np
 import seaborn as sns
 import sys

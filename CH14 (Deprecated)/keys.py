@@ -1,0 +1,2 @@
+speech_to_text_keys='cn_ekZ-4kYy-H37_T4FC1lulW60CznRILmt2azQdTYJ3'
+text_to_speech_key='QxvBuJmXbnH-qm2R2NZDnedbwEpYXwYqaVPtu62odSBA'
