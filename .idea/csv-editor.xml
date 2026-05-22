@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\CH15\ave_hi_nyc_jan_1895-2018.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
